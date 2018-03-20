@@ -1,0 +1,6 @@
+1. Checkout the project(https://github.com/psv2018/-preliminary-test.git)to local computer . 
+2. cd ./participants-list-app
+3. run "npm start"  it starts the server in port 3000
+4. open http://localhost:3000 in browser
+
+NOTE : Install npm from this site,if its not installed already (https://docs.npmjs.com/getting-started/installing-node)
